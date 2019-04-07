@@ -1,0 +1,2 @@
+def staticMethod():
+    return True
